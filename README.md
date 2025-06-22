@@ -16,7 +16,6 @@ This repository provides clean, commented code examples to help you learn and pr
 | `polymorphism_example.py`         | Поліморфізм і перевизначення методів                  | Polymorphism and method overriding                     |
 | `abstract_classes.py`             | Абстрактні класи та методи                            | Abstract classes and abstract methods                  |
 | `decorators_in_oop.py`            | Декоратори як методи класу                            | Using decorators in OOP context                        |
-| `memoization_decorator.py`        | Декоратор кешування результатів                       | Caching results with a memoization decorator           |
 | `bank_account_oop.py`             | Практичний проєкт банківського акаунта                | Bank account mini project using OOP principles         |
 
 ---
